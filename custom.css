@@ -1,0 +1,17 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
+
+/* 
+Useful link:
+https://github.com/titipata/klab_ipython_notebook/blob/master/custom.css
+*/
+
+div.text_cell_render {
+    font-size: 20pt;
+    line-height: 145%; /* added for some line spacing of text. */
+}
